@@ -1,0 +1,7 @@
+D:\Corporate\GuruStack\Simplilearn\FSD\FSD_Phase_One\Notes\C#\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\BasicsOfCSharp.exe.config
+D:\Corporate\GuruStack\Simplilearn\FSD\FSD_Phase_One\Notes\C#\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\BasicsOfCSharp.exe
+D:\Corporate\GuruStack\Simplilearn\FSD\FSD_Phase_One\Notes\C#\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\BasicsOfCSharp.pdb
+D:\Corporate\GuruStack\Simplilearn\FSD\FSD_Phase_One\Notes\C#\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.csproj.AssemblyReference.cache
+D:\Corporate\GuruStack\Simplilearn\FSD\FSD_Phase_One\Notes\C#\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.csproj.CoreCompileInputs.cache
+D:\Corporate\GuruStack\Simplilearn\FSD\FSD_Phase_One\Notes\C#\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.exe
+D:\Corporate\GuruStack\Simplilearn\FSD\FSD_Phase_One\Notes\C#\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\BasicsOfCSharp.pdb
